@@ -1,8 +1,6 @@
 # Speech-Signal-Analysis
 Speech analysis: unlocking the power of speech through spectral feature extraction and AI-powered analysis.
 
-# Importance of Speech Signal Analysis
-
 Speech signal analysis is a rapidly growing field with numerous applications in various domains like early diagnosis of Dementia, Music genre classification and many more.
 
 ## Importance of Spectral Features Analysis
